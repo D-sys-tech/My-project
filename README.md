@@ -35,6 +35,10 @@ The data is sourced from (https://www.kaggle.com/datasets/khsamaha/aviation-acci
 
 ## Visualizations
 
+![output](./images/notebooks_output.png)
+![output](./images/notebooks_output2.png)
+![alt text](output-1.png)
+
 
 ## conclusion
 1. Based on the analysis, business flights tend to exhibit fewer serious injuries and accidents compared to personal flights. It is recommended that the company prioritize aircraft designed for commercial use, as they appear to carry lower operational risk.
