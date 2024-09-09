@@ -36,8 +36,9 @@ The data is sourced from (https://www.kaggle.com/datasets/khsamaha/aviation-acci
 ## Visualizations
 
 ![output](./images/notebooks_output.png)
-![output](./images/notebooks_output2.png)
-![alt text](output-1.png)
+![output2](./images/notebooks_output2.png)
+![output-1](output-1.png)
+
 
 
 ## conclusion
