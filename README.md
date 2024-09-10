@@ -34,10 +34,9 @@ The data is sourced from (https://www.kaggle.com/datasets/khsamaha/aviation-acci
 >cleaned(df_states_codes_2)
 
 ## Visualizations
-
-![output](./images/notebooks_output.png)
-![output2](./images/notebooks_output2.png)
-![output-1](output-1.png)
+![output](https://github.com/D-sys-tech/My-project/blob/main/output.png?raw=true)
+![output2](https://github.com/D-sys-tech/My-project/blob/main/output2.png?raw=true)
+![output3](https://github.com/D-sys-tech/My-project/blob/main/output3.png?raw=true)
 
 
 
